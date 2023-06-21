@@ -1,3 +1,4 @@
+#pip install scikit-learn
 from sklearn.datasets import load_iris #conjunto de datos
 from sklearn.linear_model import Perceptron #importa clase preceptron
 from sklearn.model_selection import train_test_split #entrenamiento y pruebas
